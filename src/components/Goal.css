@@ -1,0 +1,7 @@
+.items {
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
+.items span {
+  padding-right: 10px;
+}
